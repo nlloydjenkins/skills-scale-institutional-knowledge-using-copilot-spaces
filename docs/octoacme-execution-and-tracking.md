@@ -37,4 +37,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] Risk register updated weekly (see [Risks & Communication](octoacme-risks-and-communication.md))
+- [ ] All roles confirmed and active (see [Roles & Personas](octoacme-roles-and-personas.md))

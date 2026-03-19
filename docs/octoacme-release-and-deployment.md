@@ -11,8 +11,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 ## Pre-release requirements
 - All acceptance criteria met and PRs merged
 - Passing CI and security scans
-- Release notes drafted
-- Rollback / mitigation plan documented
+- Release notes drafted (see [Technical Writer](octoacme-roles-and-personas.md#technical-writer) for ownership)
+- Rollback / mitigation plan documented (see [SRE / DevOps Engineer](octoacme-roles-and-personas.md#sre--devops-engineer) for ownership)
 - Smoke tests prepared
 
 ## Deployment Checklist
