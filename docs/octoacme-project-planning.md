@@ -39,5 +39,13 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Definition of Done documented (see [Feature & Release Readiness Checklist](octoacme-feature-readiness-checklist.md))
+- [ ] Initial test plan / QA approach drafted (QA Lead)
+- [ ] UX designs available for planned features (UX Designer)
+- [ ] Requirements and acceptance criteria documented (Business Analyst / Product Manager)
+- [ ] Role ownership confirmed using [Role Responsibility Matrix](octoacme-role-responsibility-matrix.md)
+
+## Related Documents
+- [Roles and Personas](octoacme-roles-and-personas.md)
+- [Role Responsibility Matrix](octoacme-role-responsibility-matrix.md)
+- [Feature & Release Readiness Checklist](octoacme-feature-readiness-checklist.md)
