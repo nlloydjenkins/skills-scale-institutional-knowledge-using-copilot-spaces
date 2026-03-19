@@ -38,3 +38,11 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Feature Readiness Checklist used before moving features to QA (see [Feature & Release Readiness Checklist](octoacme-feature-readiness-checklist.md))
+- [ ] QA Lead engaged and test plan in place
+- [ ] Technical Writer drafting documentation for in-progress features
+
+## Related Documents
+- [Roles and Personas](octoacme-roles-and-personas.md)
+- [Role Responsibility Matrix](octoacme-role-responsibility-matrix.md)
+- [Feature & Release Readiness Checklist](octoacme-feature-readiness-checklist.md)

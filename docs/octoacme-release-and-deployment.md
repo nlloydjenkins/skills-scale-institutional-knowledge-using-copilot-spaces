@@ -23,6 +23,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
 
+> **Use the full [Release Readiness Checklist](octoacme-feature-readiness-checklist.md#release-readiness-checklist)** to confirm QA signoff, documentation, rollback plan, and stakeholder communications are complete before deploying.
+
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
   - Trigger incident response and notify on-call
@@ -36,3 +38,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## Related Documents
+- [Roles and Personas](octoacme-roles-and-personas.md)
+- [Role Responsibility Matrix](octoacme-role-responsibility-matrix.md)
+- [Feature & Release Readiness Checklist](octoacme-feature-readiness-checklist.md)
